@@ -1,4 +1,4 @@
-services:
+﻿services:
   - type: web
     name: slack-azure-integration
     env: docker

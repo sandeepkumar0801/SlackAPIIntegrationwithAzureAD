@@ -1,0 +1,14 @@
+﻿bin/
+obj/
+out/
+logs/
+.git/
+.vs/
+.vscode/
+.idea/
+*.log
+*.tmp
+README.md
+DEPLOYMENT.md
+verify.sh
+.gitignore
