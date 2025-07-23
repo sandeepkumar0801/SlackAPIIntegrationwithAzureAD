@@ -10,7 +10,7 @@
 
 **Enterprise-grade Slack and Azure AD integration for seamless organizational communication**
 
-[🚀 Live Demo](https://slack-azure-integration.onrender.com) • [📚 API Docs](https://slack-azure-integration.onrender.com/swagger) • [⚡ Quick Start](#installation) • [🏗️ Architecture](#system-architecture)
+[🚀 Live Demo](https://slackapiintegrationwithazuread.onrender.com) • [📚 API Docs](https://slackapiintegrationwithazuread.onrender.com/swagger) • [⚡ Quick Start](#installation) • [🏗️ Architecture](#system-architecture)
 
 </div>
 
@@ -22,8 +22,8 @@
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| **Live Demo** | [Available on Render](https://slack-azure-integration.onrender.com) | ✅ Active |
-| **API Documentation** | [Interactive Swagger UI](https://slack-azure-integration.onrender.com/swagger) | ✅ Live |
+| **Live Demo** | [Available on Render](https://slackapiintegrationwithazuread.onrender.com) | ✅ Active |
+| **API Documentation** | [Interactive Swagger UI](https://slackapiintegrationwithazuread.onrender.com/swagger) | ✅ Live |
 | **Demo Mode** | Full functionality without credentials | ✅ Ready |
 | **Authentication Method** | JWT Bearer + Azure AD | Secure |
 | **API Response Time** | <100ms avg | Optimal |
@@ -41,8 +41,8 @@ This comprehensive .NET 8 Web API provides enterprise-grade integration between 
 ## 🚀 **Live Demo Available**
 
 Experience the full functionality immediately:
-- **🌐 Live API**: [https://slack-azure-integration.onrender.com](https://slack-azure-integration.onrender.com)
-- **📚 Interactive Documentation**: [https://slack-azure-integration.onrender.com/swagger](https://slack-azure-integration.onrender.com/swagger)
+- **🌐 Live API**: [https://slackapiintegrationwithazuread.onrender.com](https://slackapiintegrationwithazuread.onrender.com) *(Auto-redirects to Swagger UI)*
+- **📚 Interactive Documentation**: [https://slackapiintegrationwithazuread.onrender.com/swagger](https://slackapiintegrationwithazuread.onrender.com/swagger)
 - **🧪 Demo Endpoints**: Try `/api/demo/status`, `/api/demo/integration-test`, `/api/demo/azure-users`
 - **✨ No Setup Required**: Runs in demo mode with realistic sample data
 
@@ -797,11 +797,11 @@ curl http://localhost:5000/api/demo/integration-test
 
 | Endpoint | Description | URL |
 |----------|-------------|-----|
-| **API Status** | Check if API is running | [/api/demo/status](https://slack-azure-integration.onrender.com/api/demo/status) |
-| **Integration Test** | Full integration demo | [/api/demo/integration-test](https://slack-azure-integration.onrender.com/api/demo/integration-test) |
-| **Azure AD Users** | Demo user data | [/api/demo/azure-users](https://slack-azure-integration.onrender.com/api/demo/azure-users) |
-| **Slack Users** | Demo Slack data | [/api/demo/slack-users](https://slack-azure-integration.onrender.com/api/demo/slack-users) |
-| **Swagger UI** | Interactive API docs | [/swagger](https://slack-azure-integration.onrender.com/swagger) |
+| **API Status** | Check if API is running | [/api/demo/status](https://slackapiintegrationwithazuread.onrender.com/api/demo/status) |
+| **Integration Test** | Full integration demo | [/api/demo/integration-test](https://slackapiintegrationwithazuread.onrender.com/api/demo/integration-test) |
+| **Azure AD Users** | Demo user data | [/api/demo/azure-users](https://slackapiintegrationwithazuread.onrender.com/api/demo/azure-users) |
+| **Slack Users** | Demo Slack data | [/api/demo/slack-users](https://slackapiintegrationwithazuread.onrender.com/api/demo/slack-users) |
+| **Swagger UI** | Interactive API docs | [/swagger](https://slackapiintegrationwithazuread.onrender.com/swagger) |
 
 **Demo Features:**
 - ✅ **No Authentication Required**: Demo endpoints work without any setup
@@ -1096,10 +1096,10 @@ graph TB
 </div>
 
 **Live Demo Access:**
-- **🌐 API Base URL**: [https://slack-azure-integration.onrender.com](https://slack-azure-integration.onrender.com)
-- **📚 Swagger Documentation**: [https://slack-azure-integration.onrender.com/swagger](https://slack-azure-integration.onrender.com/swagger)
-- **🧪 Demo Status**: [https://slack-azure-integration.onrender.com/api/demo/status](https://slack-azure-integration.onrender.com/api/demo/status)
-- **⚡ Integration Test**: [https://slack-azure-integration.onrender.com/api/demo/integration-test](https://slack-azure-integration.onrender.com/api/demo/integration-test)
+- **🌐 API Base URL**: [https://slackapiintegrationwithazuread.onrender.com](https://slackapiintegrationwithazuread.onrender.com)
+- **📚 Swagger Documentation**: [https://slackapiintegrationwithazuread.onrender.com/swagger](https://slackapiintegrationwithazuread.onrender.com/swagger)
+- **🧪 Demo Status**: [https://slackapiintegrationwithazuread.onrender.com/api/demo/status](https://slackapiintegrationwithazuread.onrender.com/api/demo/status)
+- **⚡ Integration Test**: [https://slackapiintegrationwithazuread.onrender.com/api/demo/integration-test](https://slackapiintegrationwithazuread.onrender.com/api/demo/integration-test)
 
 ### Docker Deployment
 
@@ -1744,8 +1744,8 @@ For support, questions, or feature requests:
 
 This project is **100% deployment-ready** with:
 
-✅ **Live Demo**: [https://slack-azure-integration.onrender.com](https://slack-azure-integration.onrender.com)
-✅ **Interactive Docs**: [https://slack-azure-integration.onrender.com/swagger](https://slack-azure-integration.onrender.com/swagger)
+✅ **Live Demo**: [https://slackapiintegrationwithazuread.onrender.com](https://slackapiintegrationwithazuread.onrender.com)
+✅ **Interactive Docs**: [https://slackapiintegrationwithazuread.onrender.com/swagger](https://slackapiintegrationwithazuread.onrender.com/swagger)
 ✅ **Demo Mode**: Works without any credentials or setup
 ✅ **Docker Ready**: Complete containerization with Dockerfile
 ✅ **Cloud Deploy**: One-click deployment to Render (free tier)
