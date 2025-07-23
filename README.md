@@ -277,7 +277,7 @@ graph TB
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SlackAPIIntegrationwithAzureAD.git
+   git clone https://github.com/sandeepkumar0801/SlackAPIIntegrationwithAzureAD.git
    cd SlackAPIIntegrationwithAzureAD
    ```
 
@@ -1122,7 +1122,7 @@ graph TB
 **Quick Docker Setup:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SlackAPIIntegrationwithAzureAD.git
+git clone https://github.com/sandeepkumar0801/SlackAPIIntegrationwithAzureAD.git
 cd SlackAPIIntegrationwithAzureAD
 
 # Build the Docker image
@@ -1721,10 +1721,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For support, questions, or feature requests:
 
-- **📧 Email**: [support@yourcompany.com](mailto:support@yourcompany.com)
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/SlackAPIIntegrationwithAzureAD/issues)
-- **📚 Documentation**: [Project Wiki](https://github.com/yourusername/SlackAPIIntegrationwithAzureAD/wiki)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/SlackAPIIntegrationwithAzureAD/discussions)
+- **🐛 Issues**: [GitHub Issues](https://github.com/sandeepkumar0801/SlackAPIIntegrationwithAzureAD/issues)
+- **📚 Documentation**: This comprehensive README and live demo
+- **🌐 Live Demo**: [Try the API](https://slackapiintegrationwithazuread.onrender.com)
+- **📖 API Docs**: [Interactive Swagger UI](https://slackapiintegrationwithazuread.onrender.com/swagger)
 
 ## Acknowledgments
 
@@ -1758,6 +1758,6 @@ This project is **100% deployment-ready** with:
 3. Deploy with one click using the included `render.yaml`
 4. Your API will be live in minutes!
 
-[⭐ Star this repo](https://github.com/yourusername/SlackAPIIntegrationwithAzureAD) • [🍴 Fork it](https://github.com/yourusername/SlackAPIIntegrationwithAzureAD/fork) • [🚀 Deploy Now](https://render.com)
+[⭐ Star this repo](https://github.com/sandeepkumar0801/SlackAPIIntegrationwithAzureAD) • [🍴 Fork it](https://github.com/sandeepkumar0801/SlackAPIIntegrationwithAzureAD/fork) • [🚀 Deploy Now](https://render.com)
 
 </div>
