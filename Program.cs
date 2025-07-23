@@ -62,6 +62,10 @@ app.UseHttpsRedirection();
 app.UseCors("AllowSpecificOrigins");
 app.UseAuthentication();
 app.UseAuthorization();
+
+// Redirect root URL to Swagger documentation
+app.MapGet("/", () => Results.Redirect("/swagger"));
+
 app.MapControllers();
 
 try
