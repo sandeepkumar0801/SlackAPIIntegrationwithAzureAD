@@ -485,9 +485,9 @@ sequenceDiagram
 graph TB
     subgraph "🔐 Authentication Endpoints"
         AUTH_USERS[GET /api/auth/users<br/>List Azure AD Users]
-        AUTH_USER[GET /api/auth/users/[id]<br/>Get Specific User]
+        AUTH_USER[GET /api/auth/users/id<br/>Get Specific User]
         AUTH_GROUPS[GET /api/auth/groups<br/>List Azure AD Groups]
-        AUTH_MEMBERS[GET /api/auth/groups/[id]/members<br/>Get Group Members]
+        AUTH_MEMBERS[GET /api/auth/groups/id/members<br/>Get Group Members]
     end
 
     subgraph "💬 Slack Integration Endpoints"
