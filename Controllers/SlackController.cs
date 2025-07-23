@@ -7,7 +7,6 @@ namespace SlackAzureIntegration.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-[Authorize]
 public class SlackController : ControllerBase
 {
     private readonly ISlackService _slackService;

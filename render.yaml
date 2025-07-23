@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: slack-azure-integration
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    region: oregon
+    branch: main
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://+:80
+      - key: AzureAd__TenantId
+        value: demo-tenant-id
+      - key: AzureAd__ClientId
+        value: demo-client-id
+      - key: AzureAd__ClientSecret
+        value: demo-client-secret
+      - key: AzureAd__Domain
+        value: demo-company.onmicrosoft.com
+      - key: Slack__BotToken
+        value: xoxb-demo-bot-token
+      - key: Slack__SigningSecret
+        value: demo-signing-secret
+      - key: Slack__ClientId
+        value: demo-slack-client-id
+      - key: Slack__ClientSecret
+        value: demo-slack-client-secret
+    healthCheckPath: /api/demo/status
